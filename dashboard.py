@@ -125,5 +125,5 @@ if fl is not None:
       filtered_swap_pr = filtered_swap_pr[filtered_swap_pr['Exams'].str.endswith('Pr')]
 
       fig = px.pie(filtered_swap_pr, values="ESE", names="Exams", hole=0.5)
-      fig.update_traces(text=filtered_swap_dfss["Exams"], textposition="outside")
+      fig.update_traces(text=filtered_swap_pr["Exams"], textposition="outside")
       st.plotly_chart(fig, use_container_width=True)
