@@ -4,5 +4,7 @@ This web based application allows users/students to upload a file of their marks
 
 This project is optimised to analyze only Marksheet issued by S.K. Somaiya College. Currently this project is in MVP stage and has a huge scope of improvement and opportunities in future.
 
+Link for Trial - https://result-to-dashboard.streamlit.app/
+(Sample PDF available in Repo)
 
 ![image](https://github.com/user-attachments/assets/bc047718-a2c8-46a0-9f36-a6dc6e24191e)
