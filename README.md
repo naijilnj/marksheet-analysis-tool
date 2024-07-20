@@ -1,4 +1,4 @@
-# Marksheet to Charts and Graphs Generator
+# Marksheet Analysis Tool
 
 This web based application allows users/students to upload a file of their marksheet for evaluation and analysis. The UI features a drag-and-drop area where users can easily upload files, with a limit of 200MB per file, specifically in PDF format. Additionally, users can also click the "Browse files" button to select the file they want to upload. The idea of this project is to assist students in analyzing their results or academic performance to identify areas for improvement or strengths.
 
